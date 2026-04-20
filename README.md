@@ -1,8 +1,8 @@
-🚀 CodeAlpha Python Programming Internship
+# 🚀 CodeAlpha Python Programming Internship
 
 This repository contains all the tasks completed as part of the CodeAlpha Python Programming Internship.
 
-📌 Completed Tasks
+# 📌 Completed Tasks
 
 🎮 Task 1: Hangman Game
 
@@ -31,7 +31,7 @@ A rule-based chatbot that responds to basic user inputs like greetings and quest
 
 ---
 
-▶️ How to Run
+# ▶️ How to Run
 
 1. Clone this repository:
 
@@ -47,7 +47,7 @@ python hangman.py
 
 ---
 
-🧠 Skills Gained
+# 🧠 Skills Gained
 
 - Python Programming Fundamentals
 - File Handling
@@ -57,13 +57,13 @@ python hangman.py
 
 ---
 
-📌 Internship Details
+# 📌 Internship Details
 
 This repository is submitted as part of the CodeAlpha Internship Program, where multiple real-world Python tasks were completed.
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Omkar Pai
 🔗 GitHub: https://github.com/OmkarPai2007
