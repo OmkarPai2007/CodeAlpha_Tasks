@@ -1,0 +1,17 @@
+Hello,
+
+Here are some example email:
+
+abc@gmail.com
+admin@yahoo.com
+jerry@test.com
+
+More:
+techsupport@company.com
+
+Duplicate email:
+abc@gmail.com
+
+Invalid email:
+test@com
+hi@com
